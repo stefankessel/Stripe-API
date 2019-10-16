@@ -1,4 +1,4 @@
-#Stripe API - Payment
+<h2>Stripe API - Payment</h2>
 
 <h3> Description</h3>
 Simple Payment Form with PHP, MYSQL, PDO, Stripe API, Bootsstrap 4 for the UI. Payment Data will be safed in own Database as well the the Stripe Database.
